@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\project1\\thaiproject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E4B8EE8-1CF5-4E4B-8100-734756683950}|thaiproject\\thaiproject.csproj|c:\\project1\\thaiproject\\thaiproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E4B8EE8-1CF5-4E4B-8100-734756683950}|thaiproject\\thaiproject.csproj|solutionrelative:thaiproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E4B8EE8-1CF5-4E4B-8100-734756683950}|thaiproject\\thaiproject.csproj|c:\\project1\\thaiproject\\thaiproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9E4B8EE8-1CF5-4E4B-8100-734756683950}|thaiproject\\thaiproject.csproj|solutionrelative:thaiproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\project1\\thaiproject\\thaiproject\\Form2.cs",
+              "RelativeDocumentMoniker": "thaiproject\\Form2.cs",
+              "ToolTip": "C:\\project1\\thaiproject\\thaiproject\\Form2.cs [Design]",
+              "RelativeToolTip": "thaiproject\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:51:20.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\project1\\thaiproject\\thaiproject\\Form1.cs",
               "RelativeDocumentMoniker": "thaiproject\\Form1.cs",
